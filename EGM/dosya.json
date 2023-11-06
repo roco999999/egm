@@ -1,0 +1,9 @@
+{
+    "Dosya_Sayisi": 10,
+    "Dosya_Boyutu": 1000,
+    "Kolonlar": [
+        "Kolon Adı 1",
+        "Kolon Adı 2",
+        "Kolon Adı 3"
+    ]
+}
